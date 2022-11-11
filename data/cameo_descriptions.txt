@@ -1,0 +1,318 @@
+01: MAKE PUBLIC STATEMENT
+010: <S> made a statement about <T>.
+011: <S> declined to comment about <T>.
+012: <S> made a pessimistic comment about <T>.
+013: <S> made an optimistic comment about <T>.
+014: <S> considered a policy option related to <T>.
+015: <S> claimed responsibility for attacking <T>.
+016: <S> denied responsibility from <T>.
+017: <S> engaged in a symbolic act with <T>.
+018: <S> made an empathetic comment about <T>.
+019: <S> expressed accord with <T>.
+02: APPEAL
+020: <S> made an appeal to <T>.
+021: <S> appealed to <T> for material cooperation.
+0211: <S> appealed to <T> for economic cooperation.
+0212: <S> appealed to <T> for military cooperation.
+0213: <S> appealed to <T> for judicial cooperation.
+0214: <S> appealed to <T> for intelligence.
+022: <S> appealed to <T> for diplomatic cooperation.
+023: <S> appealed to <T> for aid.
+0231: <S> appealed to <T> for economic aid.
+0232: <S> appealed to <T> for military aid.
+0233: <S> appealed to <T> for humanitarian aid.
+0234: <S> appealed to <T> for military protection or peacekeeping.
+024: <S> appealed to <T> for political reform.
+0241: <S> appealed to <T> for change in leadership.
+0242: <S> appealed to <T> for policy change.
+0243: <S> appealed to <T> for rights.
+0244: <S> appealed to <T> for change in institutions.
+025: <S> appealed to <T> to yield.
+0251: <S> appealed to <T> for easing of administrative sanctions.
+0252: <S> appealed to <T> for easing of political dissent.
+0253: <S> appealed to <T> for release of persons or property.
+0254: <S> appealed to <T> for easing of economic sanctions, boycott, or embargo.
+0255: <S> appealed to <T> to allow international involvement.
+0256: <S> appealed to <T> for de-escalation of military engagement.
+026: <S> appealed to <T> to meet and negotiate.
+027: <S> appealed to <T> to settle the dispute.
+028: <S> appealed to <T> to engage in or accept mediation.
+03: EXPRESS INTENT TO COOPERATE
+030: <S> expressed intention to cooperate with <T>.
+031: <S> expressed intention to engage in material cooperation with <T>.
+0311: <S> expressed intention to cooperate economically with <T>.
+0312: <S> expressed intention to cooperate militarily with <T>.
+0313: <S> expressed intention to cooperate on judicial matters with <T>.
+0314: <S> expressed intention to cooperate on intelligence with <T>.
+032: <S> expressed intention to engage in diplomatic cooperation with <T>.
+033: <S> expressed intention to provide material aid to <T>.
+0331: <S> expressed intention to provide economic aid to <T>.
+0332: <S> expressed intention to provide military aid to <T>.
+0333: <S> expressed intention to provide humanitarian aid to <T>.
+0334: <S> expressed intention to provide military protection to <T>.
+034: <S> expressed intention to institute political reform to <T>.
+0341: <S> expressed intention to change leadership to cooperate with <T>.
+0342: <S> expressed intention to change policy to cooperate with <T>.
+0343: <S> expressed intention to provide rights to cooperate with <T>.
+0344: <S> expressed intention to change institutions to cooperate with <T>.
+035: <S> expressed intention to yield to cooperate with <T>.
+0351: <S> expressed intention to ease administrative sanctions on <T>.
+0352: <S> expressed intention to ease popular dissent against <T>.
+0353: <S> expressed intention to release persons or property to cooperate with <T>.
+0354: <S> expressed intention to ease economic embargoes on <T>.
+0355: <S> expressed intention to allow international involvement with <T>.
+0356: <S> expressed intention to de-escalate military engagement to <T>.
+036: <S> expressed intention to meet or negotiate with <T>.
+037: <S> expressed intention to settle dispute with <T>.
+038: <S> expressed intention to accept <T>'s mediation.
+039: <S> expressed intention to mediate <T>'s conflict.
+04: CONSULT
+040: <S> consulted with <T>.
+041: <S> discussed by telephone with <T>.
+042: <S> made a visit to <T>.
+043: <S> hosted <T>.
+044: <S> attended <T>'s meeting.
+045: <S> mediated <T>'s conflict.
+046: <S> engaged in negotiation with <T>.
+05: ENGAGE IN DIPLOMATIC COOPERATION
+050: <S> engaged in diplomatic cooperation with <T>.
+051: <S> praised and endorsed <T>.
+052: <S> verbally defended <T>.
+053: <S> supported <T>.
+054: <S> granted diplomatic recognition to <T>.
+055: <S> apologized <T>.
+056: <S> forgave <T>.
+057: <S> signed formal agreement with <T>.
+06: ENGAGE IN MATERIAL COOPERATION
+060: <S> engaged in material cooperation with <T>.
+061: <S> cooperated economically with <T>.
+062: <S> cooperated militarily with <T>.
+063: <S> engaged in judicial cooperation with <T>.
+064: <S> shared intelligence and information with <T>.
+07: PROVIDE AID
+070: <S> provided aid to <T>.
+071: <S> provided economic aid to <T>.
+072: <S> provided military aid to <T>.
+073: <S> provided humanitarian aid to <T>.
+074: <S> provided military protection to <T>.
+075: <S> granted asylum to <T>.
+08: YIELD
+080: <S> yielded on <T>.
+081: <S> eased administrative sanctions on <T>.
+0811: <S> eased restrictions on political freedoms of <T>.
+0812: <S> eased ban on politicians of <T>.
+0813: <S> eased curfew in <T>.
+0814: <S> eased state of emergency in <T>.
+082: <S> eased political dissent against <T>.
+083: <S> accepted demands for political reform from <T>.
+0831: <S> acceded to <T> demands for change in leadership.
+0832: <S> acceded to <T> demands for change in policy.
+0833: <S> acceded to <T> demands for rights.
+0834: <S> acceded to <T> demands for change in institutions.
+084: <S> handed back to <T>.
+0841: <S> released <T>.
+0842: <S> released the properties to <T>.
+085: <S> eased economic sanctions on <T>.
+086: <S> allowed international involvement from <T>.
+0861: <S> received a deployment of peacekeepers from <T>.
+0862: <S> received inspectors from <T>.
+0863: <S> allowed humanitarian access from <T>.
+087: <S> de-escalated military engagement with <T>.
+0871: <S> declared truce to interrupt fighting with <T>.
+0872: <S> eased military blockade on <T>.
+0873: <S> demobilized armed forces in <T>.
+0874: <S> retreated militarily in <T> by pulling out armed forces.
+09: INVESTIGATE
+090: <S> investigated <T>.
+091: <S> investigated crimes potentially committed by <T>.
+092: <S> investigated human rights abuses potentially committed by <T>.
+093: <S> investigated military action of <T>.
+094: <S> investigated war crimes potentially committed by <T>.
+10: DEMAND
+100: <S> raised a strong demand to <T>.
+101: <S> raised a strong demand for material cooperation to <T>.
+1011: <S> raised a strong demand for economic cooperation to <T>.
+1012: <S> raised a strong demand for military cooperation to <T>.
+1013: <S> raised a strong demand for judicial cooperation to <T>.
+1014: <S> raised a strong demand for intelligence cooperation to <T>.
+102: <S> raised a strong demand for diplomatic cooperation to <T>.
+103: <S> raised a strong demand for material aid to <T>.
+1031: <S> raised a strong demand for economic aid to <T>.
+1032: <S> raised a strong demand for military aid to <T>.
+1033: <S> raised a strong demand for humanitarian aid to <T>.
+1034: <S> raised a strong demand for military protection to <T>.
+104: <S> raised a strong demand for political reform to <T>.
+1041: <S> raised a strong demand for change in leadership to <T>.
+1042: <S> raised a strong demand for policy change to <T>.
+1043: <S> raised a strong demand for rights to <T>.
+1044: <S> raised a strong demand for change in institutions to <T>.
+105: <S> raised a strong demand for <T> yielding.
+1051: <S> raised a strong demand for <T> easing of administrative sanctions.
+1052: <S> raised a strong demand for <T> easing of political dissent.
+1053: <S> raised a strong demand for <T> to release of persons and properties.
+1054: <S> raised a strong demand for <T> easing of economic sanctions.
+1055: <S> raised a strong demand for <T> to allow international involvement.
+1056: <S> raised a strong demand for <T> to de-escalate the military engagement.
+106: <S> raised a strong demand for <T> to negotiate.
+107: <S> raised a strong demand for <T> settling the dispute.
+108: <S> raised a strong demand for <T> mediation.
+11: DISAPPROVE
+110: <S> disapproved <T>, raising many objections and complaints.
+111: <S> criticized and denounced <T>.
+112: <S> accused <T>, raising allegations of misconduct.
+1121: <S> accused <T> of crime.
+1122: <S> accused <T> of human rights abuses.
+1123: <S> accused <T> of aggression.
+1124: <S> accused <T> of war crimes.
+1125: <S> accused <T> of espionage.
+113: <S> rallied opposition against <T>.
+114: <S> officially complained against <T>.
+115: <S> filed a lawsuit against <T>.
+116: <S> convicted <T>.
+12: REJECT
+120: <S> deeply rejected <T>.
+121: <S> rejected cooperation from <T>.
+1211: <S> rejected economic cooperation from <T>.
+1212: <S> rejected military cooperation from <T>.
+1213: <S> rejected judicial cooperation from <T>.
+1214: <S> rejected intelligence cooperation from <T>.
+122: <S> rejected demand from <T> for material aid.
+1221: <S> rejected request from <T> for economic aid.
+1222: <S> rejected request from <T> for military aid.
+1223: <S> rejected request from <T> for humanitarian aid.
+1224: <S> rejected request from <T> for military protection.
+123: <S> rejected request from <T> for political reform.
+1231: <S> rejected request from <T> for change in leadership.
+1232: <S> rejected request from <T> for policy change.
+1233: <S> rejected request from <T> for rights.
+1234: <S> rejected request from <T> for change in institutions.
+124: <S> refused to yield to <T>.
+1241: <S> refused to ease administrative sanctions on <T>.
+1242: <S> refused to ease popular dissent with <T>.
+1243: <S> refused to release <T> persons and properties.
+1244: <S> refused to ease economic sanctions on <T>.
+1245: <S> refused to allow <T> involvement.
+1246: <S> refused to de-escalate military engagement with <T>.
+125: <S> rejected proposal to negotiate with <T>.
+126: <S> rejected <T> mediation.
+127: <S> rejected <T> plan to settle dispute.
+128: <S> defied <T>, disobeying the norms and laws.
+129: <S> vetoed <T>.
+13: THREATEN
+130: <S> threatened <T> through coercive and forceful warnings.
+131: <S> threatened <T> in a verbal manner.
+1311: <S> threatened to reduce aid to <T>.
+1312: <S> threatened <T> with sanctions and restriction of normal economic interactions.
+1313: <S> threatened to break relations with <T>.
+132: <S> threatened <T> with administrative sanctions.
+1321: <S> threatened <T> with restrictions on political freedoms.
+1322: <S> threatened to ban political parties and politicians from <T>.
+1323: <S> threatened to impose curfew to <T>.
+1324: <S> threatened to impose state of emergency to <T>.
+133: <S> threatened to mobilize against <T> by engaging in actions of political dissent.
+134: <S> threatened to halt negotiations with <T>.
+135: <S> threatened to halt mediation with <T>
+136: <S> threatened to halt international involvement with <T>.
+137: <S> threatened <T> with repression, by using force to clamp down on opposition activities.
+138: <S> threatened to use military force against <T>.
+1381: <S> threatened <T> through blockades.
+1382: <S> threatened to occupy and seize control of <T>.
+1383: <S> threaten to use unconventional violence such as terrorism against <T>.
+1384: <S> threaten to attack <T> using military weapons.
+1385: <S> threaten to attack <T> using weapons of mass destruction.
+139: <S> gave an ultimatum to <T>.
+14: PROTEST
+140: <S> engaged in civilian demonstrations to protest against <T>.
+141: <S> demonstrated and rallied against <T>.
+1411: <S> demonstrated against <T>, demanding leadership change.
+1412: <S> demonstrated against <T>, demanding policy change.
+1413: <S> demonstrated against <T>, demanding rights.
+1414: <S> demonstrated against <T>, demanding major changes in the constitution and regime.
+142: <S> conducted hunger strike against <T>, refusing to eat until the demands are met.
+1421: <S> conducted hunger strike against <T>, refusing to eat until demands for leadership change are met.
+1422: <S> conducted hunger strike against <T>, refusing to eat until demands for policy reform are met.
+1423: <S> conducted hunger strike against <T>, refusing to eat until demands for rights are met.
+1424: <S> conducted hunger strike against <T>, refusing to eat until demands for major changes in the constitution and regime are met.
+143: <S> conducted a strike against <T>, refusing to work until the demands are met.
+1431: <S> conducted a strike against <T>, refusing to work until demands for leadership change are met.
+1432: <S> conducted a strike against <T>, refusing to work until demands for policy reform are met.
+1433: <S> conducted a strike against <T>, refusing to work until demands for political and social rights are met.
+1434: <S> conducted a strike against <T>, refusing to work until demands for institutional and constitutional changes are met.
+144: <S> protested by blocking <T> passage.
+1441: <S> blocked <T> to demand leadership change.
+1442: <S> blocked <T> to demand policy changes and reforms.
+1443: <S> blocked <T> to demand rights.
+1444: <S> blocked <T> to demand change in institutions.
+145: <S> violently protested against <T>.
+1451: <S> violently protested against <T> to demand leadership change.
+1452: <S> violently protested against <T> to demand policy change.
+1453: <S> violently protested against <T> to demand political, social and economic rights.
+1454: <S> violently protested against <T> to demand demand major changes in the constitution and regime.
+15: EXHIBIT FORCE POSTURE
+150: <S> demonstrated its military capabilities and readiness.
+151: <S> increased the police alert status regarding <T>.
+152: <S> increased the military alert status regarding <T>.
+153: <S> mobilized and increased police power to deal with <T>.
+154: <S> mobilized and increased armed forces to deal with <T>.
+155: <S> mobilized and increased cyber-forces to deal with <T>.
+16: REDUCE RELATIONS
+160: <S> reduced relations with <T>.
+161: <S> broke diplomatic relations with <T>.
+162: <S> reduced material aid to <T>.
+1621: <S> reduced economic assistance to <T>.
+1622: <S> reduced military assistance to <T>.
+1623: <S> reduced humanitarian assistance to <T>.
+163: <S> imposed sanctions on <T>.
+164: <S> halted negotiations with <T>.
+165: <S> halted <T> mediation.
+166: <S> expelled <T>.
+1661: <S> expelled <T> peacekeepers.
+1662: <S> expelled <T> inspectors.
+1663: <S> expelled <T> aid agency.
+17: COERCE
+170: <S> coerced <T>.
+171: <S> seized property of <T>.
+1711: <S> confiscated property of <T>.
+1712: <S> destroyed property of <T>.
+172: <S> imposed administrative sanctions to <T>.
+1721: <S> imposed restrictions on political freedoms to <T>.
+1722: <S> banned <T> politicians.
+1723: <S> imposed curfew to <T>.
+1724: <S> imposed state of emergency to <T>.
+173: <S> arrested <T>.
+174: <S> expelled <T>.
+175: <S> used tactics of violent repression against <T>.
+176: <S> attacked <T> cybernetically.
+18: ASSAULT
+180: <S> attacked <T> using an unconventional form of violence.
+181: <S> abducted <T>.
+182: <S> physically assaulted <T>.
+1821: <S> sexually assaulted <T>.
+1822: <S> tortured <T>.
+1823: <T> was killed by <S> after physical assault.
+183: <S> conducted suicide non-military bombing against <T>.
+1831: <S> carried out suicide bombing against <T>.
+1832: <S> carried out vehicular bombing against <T>.
+1833: <S> carried out roadside bombing in <T>.
+1834: <S> carried out location bombing in <T>.
+184: <S> held <T> as human shield.
+185: <S> attempted to assassinate <T>.
+186: <S> assassinated <T>.
+19: FIGHT
+190: <S> attacked <T> through conventional military force.
+191: <S> imposed blockades to <T>.
+192: <S> occupied territory of <T>.
+193: <S> attacked <T> with small arms and light weapons.
+194: <S> attacked <T> with artillery and tanks.
+195: <S> attacked <T> with aerial weapons.
+1951: <S> attacked <T> using precision-guided aerial munitions.
+1952: <S> attacked <T> using remotely piloted aerial munitions.
+196: <S> violated the ceasefire with <T>.
+20: USE UNCONVENTIONAL MASS VIOLENCE
+200: <S> used unconventional mass violence against <T>.
+201: <S> engaged in mass expulsion against <T>.
+202: <S> engaged in mass killings against <T>.
+203: <S> engaged in ethnic cleansing against <T>.
+204: <S> used weapons of mass destruction against <T>.
+2041: <S> used chemical, biological, and radiological weapons against <T>.
+2042: <S> detonated nuclear weapons against <T>.
